@@ -1,0 +1,13 @@
+  
+ 1. Install node.
+
+2. In command Prompt type: npx create-react-app 'react app name'
+
+3. go to react app folder via: cd 'react app name'
+
+4. code . to open VS code then open code
+
+5. Begin coding
+
+**Theme:Ayu Mirage
+**Icon: Material Icon Theme, VScode-icons

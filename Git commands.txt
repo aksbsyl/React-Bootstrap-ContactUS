@@ -1,0 +1,79 @@
+1. git --version
+
+2. git log
+Usage: git log  
+
+This command is used to list the version history for the current branch.
+
+3.And your email address:
+
+usage:git config --global user.email "your_email_address@example.com"
+
+To check the configuration, run:
+
+usage: git config --global --list
+
+
+
+Steps to use git via terminal
+
+
+
+4. git clone
+Usage: git clone [url]  
+
+This command is used to obtain a repository from an existing URL.
+
+5. change to git folder
+usage: cd git-folder-name
+
+6.
+
+5. git branch
+Usage: git branch  
+
+This command lists all the local branches in the current repository.
+
+6.Usage: git branch [branch name]  
+
+This command creates a new branch.
+
+Usage: git branch -d [branch name]  
+
+This command deletes the feature branch.
+
+Mostly used
+
+Usage: git checkout [branch name]  
+
+This command is used to switch from one branch to another.
+
+Usage: git checkout -b [branch name]  
+
+This command creates a new branch and also switches to it.
+
+7. Now add your uploading files to the downloaded or cloned folder
+
+then, git status to view which files to add
+
+8. git add [ur folder]
+
+then, git status to see ur updates
+
+9.git commit
+Usage: git commit -m “[ Type in the commit message]”  
+
+This command records or snapshots the file permanently in the version history.
+
+10git push
+Usage: git push [variable name] master  
+
+This command sends the committed changes of master branch to your remote repositor
+
+or we use
+
+Usage: git push –all [variable name]  
+
+This command pushes all branches to your remote repository.
+
+
