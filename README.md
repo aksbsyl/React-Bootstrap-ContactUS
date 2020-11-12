@@ -6,4 +6,4 @@
 
 * 3)For Mailjs:
 npm install emaijs-com 
-* 4) For google maps: Goto map location>share>embed in a code[copy link from here]
+* 4)For google maps: Goto map location>share>embed in a code[copy link from here]
