@@ -11,3 +11,7 @@
 
 **Theme:Ayu Mirage
 **Icon: Material Icon Theme, VScode-icons
+
+6. After completion:
+In terminal type following to run:
+ npm start
