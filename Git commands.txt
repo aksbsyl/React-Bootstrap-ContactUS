@@ -56,7 +56,11 @@ This command creates a new branch and also switches to it.
 
 then, git status to view which files to add
 
-8. git add [ur folder]
+8. git add .
+usage: To make ur files tracked
+
+git add <foldername>
+usage: too add untracked folder
 
 then, git status to see ur updates
 
@@ -65,15 +69,18 @@ Usage: git commit -m “[ Type in the commit message]”
 
 This command records or snapshots the file permanently in the version history.
 
-10git push
+10.git push
 Usage: git push [variable name] master  
 
 This command sends the committed changes of master branch to your remote repositor
 
 or we use
 
-Usage: git push –all [variable name]  
+Usage: git push --all [variable name]  
 
 This command pushes all branches to your remote repository.
+
+11. git rm -r folder-name
+usage: to delete folder from git repository
 
 
